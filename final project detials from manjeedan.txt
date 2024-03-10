@@ -1,0 +1,17 @@
+Introduction to company
+Introduction to existing situation(current operation)
+Current Problems 
+proposed solution
+      FR1  (Functional Requairement)
+      FR2  (Non functional Requirement)
+
+
+
+Final project
+Use case diagram(proposed & current)
+class diagram
+sequence diagram
+ER diagram
+File Diagram
+Interface Design
+Report Layouts 
